@@ -17,7 +17,7 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background: #ffffff;
 }
 
 ::selection {
@@ -410,7 +410,7 @@ background: none;
     border: 2px solid rgba(255, 255, 255, 0.6);
 }
 .secPad{
-	padding:60px 0;
+	padding:20px 0;
 }
 /*Intro Content*/
 #introText {
