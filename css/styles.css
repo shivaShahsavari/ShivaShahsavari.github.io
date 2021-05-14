@@ -131,7 +131,7 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: #B174B6;
+    background: #A169A6;
     z-index: 50;
     border-radius: 0;
     top: 0px;
@@ -416,6 +416,7 @@ background: none;
 #introText {
 padding:50px 0;
 background:#fff;
+color:#6F4B72;
 }
 
 #aboutUs .txtHead{
