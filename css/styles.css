@@ -539,7 +539,6 @@ display: inherit;
   left: 1px;
 }
 #timeline .timeline-movement {
-  border-bottom: dashed 1px #9E0E6E;
   position: relative;
 }
 #timeline .timeline-movement.timeline-movement-top {
