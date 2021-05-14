@@ -428,7 +428,7 @@ font-size: 58px;
 color: #5E5E5E;
 }
 .tileBox p{
-    background-color: #EAD4EC;
+    background-color: #FDFCFD;
 font-size: 15px;
 color: #777777;
 padding: 20px;
@@ -437,7 +437,7 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-background-image: url('../images/banner-bg.png');
+background-image: url('../image/background_github.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
