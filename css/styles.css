@@ -709,12 +709,12 @@ nav#filter {
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
-        border: 1px solid #CC4646;
+        border: 1px solid #662650;
         text-decoration: none;
     }
 
 .current {
-    background: #CC4646;
+    background: #783160;
     color: #fff;
 }
 
